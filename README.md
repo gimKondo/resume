@@ -18,6 +18,59 @@ CAD開発の経験をバックボーンに持ち、メモリやCPUなどのコ�
 
 これらの実績から、現在は社内全体の技術選定やチーム横断的な開発プロセス改善を実施する職務に就いています。
 
+## スキル
+### 言語・フレームワーク
+- Elixir
+  - Phoenix
+- C, C++03, C++11
+  - Visual C++, GCC
+  - MFC, Windows Form
+- Go
+- Ruby
+  - Ruby on Rails, Sinatra
+- JavaScript
+  - Node.js
+  - Electron
+  - Vue.js
+- C#
+  - WPF, Windows Form
+- Java8
+  - Spring Boot
+  - DBFlute
+  - Thymeleaf
+- Haskell
+
+### ミドルウェア
+- Database
+  - MySQL, PostgreSQL, Oracle Database, DB2, SQLite3, Redis
+- Webサーバ
+  - Nginx, Apache HTTP Server
+
+### クラウドプラットフォーム
+- AWS
+  - EC2, Lambda, ELB
+  - S3, RDS, DynamoDB, ElastiCache
+  - CloudFront
+  - CloudWatch
+  - CloudFormation
+- GCP
+  - Kubernetes Engine
+  - Cloud Storage
+- Firebase
+  - Authentication
+  - Cloud Firestore
+
+### 開発ツール
+- ソース管理
+  - Git, VSS, TFS
+- 仮想環境
+  - Vagrant, Docker
+- エディタ
+  - Vim, VSCode
+- CIツール／サービス
+  - Jenkins
+  - CircleCI
+
 ## 職歴・学歴
 ### 株式会社リゾーム
 - 職務 2018.10～現在: CTM(Chief Technical Manager)
@@ -56,7 +109,8 @@ CAD開発の経験をバックボーンに持ち、メモリやCPUなどのコ�
   - Kubernetes
   - MySQL
   - AWS: S3, CloudFront
-  - GCP: GKE, GCE - Firebase: Authentication
+  - GCP: GKE, GCE
+  - Firebase: Authentication
 
 自社サービスとしてゼロから製作したBtoCサービスの開発案件です。
 
