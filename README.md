@@ -229,3 +229,19 @@ CADのカーネルという性質上、メモリの効率的な利用が求め�
 - [リポジトリ](https://github.com/sqlitebrowser/sqlitebrowser)
 - 使用技術: Qt, C++, SQLite3
 - バグ修正
+
+## 学術論文／学会発表
+植物生態学の分野で数値計算、シミュレーションを担当した。
+
+- Temporal variation in airborne pollen density and genetic diversity of the pollen pool in Fagus crenata.
+  - 2012年
+  - Hanaoka So, Daisuke Kondo, Yuzuru Mukai
+  - 関東森林研究 63: 93-96
+- The effect of sampling design on genetic diversity of seed population -Simulation case study of Fagus crenata
+  - 2012年
+  - Hanaoka So, Daisuke Kondo
+  - The 5th EAFES International congress, P3-225A, 17-21 March, Otsu.
+- ブナ開花期における花粉の量と遺伝的多様性の時間的変動
+  - 2011年
+  - 花岡創, 近藤大介, 向井譲
+  - 第1回関東森林学会大会, 群馬県社会福祉総合センター, 講演要旨集第28貢
