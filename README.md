@@ -5,6 +5,7 @@
 - 氏名: 近藤大介
 - GitHub: [gimKondo](https://github.com/gimKondo)
 - Qiita: [gimKondo](https://qiita.com/gimKondo)
+- [自己紹介スライド](https://docs.google.com/presentation/d/1lKGzyE24f4DSSVgeZhVq8yMA-esxptShBoJBgwzW4nc/edit?usp=sharing)
 
 ## サマリー
 
@@ -252,6 +253,7 @@ DSLの言語仕様設計、およびVMとデバッガを担当しました。
 また、社内にコードレビューが無かったため、TFSの運用ルール策定とともにコードレビューのフローも導入しました。
 
 #### 設備建築CADアプリケーション部 追加開発
+
 - 期間: 2009.5～2012.5
 - 使用技術
   - Visual Studio2005, Visual Studio2010
@@ -259,6 +261,7 @@ DSLの言語仕様設計、およびVMとデバッガを担当しました。
   - VSS
 
 #### 電子入札システム 新規開発
+
 - 期間: 2007.10～2008.10
 - 担当: バックエンドエンジニア, フロントエンドエンジニア
 - 使用技術
@@ -267,6 +270,7 @@ DSLの言語仕様設計、およびVMとデバッガを担当しました。
   - VSS
 
 #### 設備建築CADカーネル部 追加開発 2006.4～
+
 - 期間: 2006.4～2009.4
 - 担当: アプリケーションエンジニア
 - 使用技術
